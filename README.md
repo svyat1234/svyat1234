@@ -27,6 +27,7 @@
 <p align="center">
     ⚪ Учавствую в разработке нескольких проектов.
 </p>
+<br>
 
 
 
@@ -63,6 +64,7 @@
 <p align="center">
   <strong>Code-X web-development</strong>
 </p>
+<br>
 
 <p align="center">
   <img src="/assets/images/stat.svg" height="24" alt="GitHub статистика"/>&nbsp;
