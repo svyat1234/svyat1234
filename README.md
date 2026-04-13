@@ -16,18 +16,18 @@
 ⚫ Учавствую в разработке нескольких проектов.
 
 <p align="center">
-  <img src="/assets/icons/Css.svg" width="48" height="48" alt="Css"/>
-  <img src="/assets/icons/Cursor.svg" width="48" height="48" alt="Cursor"/>
-  <img src="/assets/icons/Figma.svg" width="48" height="48" alt="Figma"/>
-  <img src="/assets/icons/Gsap.svg" width="48" height="48" alt="Gsap"/>
-  <img src="/assets/icons/Html.svg" width="48" height="48" alt="Html"/>
-  <img src="/assets/icons/Js.svg" width="48" height="48" alt="Js"/>
-  <img src="/assets/icons/Node.svg" width="48" height="48" alt="Node"/>
-  <img src="/assets/icons/Npm.svg" width="48" height="48" alt="Npm"/>
-  <img src="/assets/icons/React.svg" width="48" height="48" alt="React"/>
-  <img src="/assets/icons/Sass.svg" width="48" height="48" alt="Sass"/>
-  <img src="/assets/icons/Tailwind.svg" width="48" height="48" alt="Tailwind"/>
-  <img src="/assets/icons/Ts.svg" width="48" height="48" alt="Ts"/>
+  <img src="/assets/icons/Css.svg" width="64" height="64" alt="Css"/>
+  <img src="/assets/icons/Cursor.svg" width="64" height="64" alt="Cursor"/>
+  <img src="/assets/icons/Figma.svg" width="64" height="64" alt="Figma"/>
+  <img src="/assets/icons/Gsap.svg" width="64" height="64" alt="Gsap"/>
+  <img src="/assets/icons/Html.svg" width="64" height="64" alt="Html"/>
+  <img src="/assets/icons/Js.svg" width="64" height="64" alt="Js"/>
+  <img src="/assets/icons/Node.svg" width="64" height="64" alt="Node"/>
+  <img src="/assets/icons/Npm.svg" width="64" height="64" alt="Npm"/>
+  <img src="/assets/icons/React.svg" width="64" height="64" alt="React"/>
+  <img src="/assets/icons/Sass.svg" width="64" height="64" alt="Sass"/>
+  <img src="/assets/icons/Tailwind.svg" width="64" height="64" alt="Tailwind"/>
+  <img src="/assets/icons/Ts.svg" width="64" height="64" alt="Ts"/>
 </p>
 
 <!--
