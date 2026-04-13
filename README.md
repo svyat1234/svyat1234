@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/svyat-git.png" alt="Svyat web-developer" width="100%">
+  <img src="assets/images/svyat-git-prev.png.png" alt="Svyat web-developer" width="100%">
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
   <img src="/assets/images/obo-mne.svg" height="24" alt="Обо мне"/>&nbsp;
 </p>
 
+<p align="center">
 ⚪ Привет! Я Свят. Занимаюсь фронтенд-разработкой.
 
 ⚪ Люблю разбираться в сложных задачах, писать чистый код, наводить красоту и постоянно учиться новому. 
@@ -22,6 +23,7 @@
 ⚪ Работаю в компании Code-X web-development.
 
 ⚪ Учавствую в разработке нескольких проектов.
+</p>
 
 
 <p align="center">
