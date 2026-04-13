@@ -2,13 +2,16 @@
   <img src="assets/images/svyat-git.png" alt="Svyat web-developer" width="100%">
 </p>
 
-<h1 align="center"> svyat1234 </h1>
+<p align="center">
+  <img src="assets/images/me.svg" alt="svyat1234" height="64">
+</p>
+
 
 <p align="center">
   <strong>Фронтенд-разработчик</strong>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="/assets/images/obo-mne.svg" height="24" alt="Обо мне"/>&nbsp;
 </p>
 
@@ -21,7 +24,7 @@
 ⚪ Учавствую в разработке нескольких проектов.
 
 
-<p align="left">
+<p align="center">
   <img src="/assets/images/tech.svg" height="24" alt="Технологии и инструменты"/>&nbsp;
 </p>
 
@@ -39,8 +42,9 @@
   <img src="/assets/icons/Tailwind.svg" width="64" height="64" alt="Tailwind"/>&nbsp;
   <img src="/assets/icons/Ts.svg" width="64" height="64" alt="Ts"/>
 </p>
+<br>
 
-<p align="left">
+<p align="center">
   <img src="/assets/images/company.svg" height="24" alt="Компания, в которой работаю"/>&nbsp;
 </p>
 
@@ -54,8 +58,8 @@
   <strong>Code-X web-development</strong>
 </p>
 
-<p align="left">
-  <img src="/assets/images/stat.svg" height="24" alt="GitHub статистика/>&nbsp;
+<p align="center">
+  <img src="/assets/images/stat.svg" height="24" alt="GitHub статистика"/>&nbsp;
 </p>
 
 <p align="center">
