@@ -16,11 +16,11 @@
 ⚫ Учавствую в разработке нескольких проектов.
 
 <p align="center">
-  <img src="/assets/icons/Css.svg" width="64" height="64" alt="Css"/>
-  <img src="/assets/icons/Cursor.svg" width="64" height="64" alt="Cursor"/>
-  <img src="/assets/icons/Figma.svg" width="64" height="64" alt="Figma"/>
-  <img src="/assets/icons/Gsap.svg" width="64" height="64" alt="Gsap"/>
-  <img src="/assets/icons/Html.svg" width="64" height="64" alt="Html"/>
+  <img src="/assets/icons/Css.svg" width="64" height="64" alt="Css"/>&nbsp;
+  <img src="/assets/icons/Cursor.svg" width="64" height="64" alt="Cursor"/>&nbsp;
+  <img src="/assets/icons/Figma.svg" width="64" height="64" alt="Figma"/>&nbsp;
+  <img src="/assets/icons/Gsap.svg" width="64" height="64" alt="Gsap"/>&nbsp;
+  <img src="/assets/icons/Html.svg" width="64" height="64" alt="Html"/>&nbsp;
   <img src="/assets/icons/Js.svg" width="64" height="64" alt="Js"/>
   <img src="/assets/icons/Node.svg" width="64" height="64" alt="Node"/>
   <img src="/assets/icons/Npm.svg" width="64" height="64" alt="Npm"/>
