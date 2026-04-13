@@ -2,15 +2,18 @@
   <img src="assets/svyat-git.png" alt="Svyat web-developer" width="100%">
 </p>
 
-<!-- <h1 align="center"><> svyat1234 </></h1> -->
+<h1 align="center"><> svyat1234 </></h1>
 
 <p align="center">
-  <strong>Веб-разработчик</strong>
+  <strong>Фронтенд-разработчик</strong>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=svyat1234;Разработчик;Аналитик;Люблю+код+и+кофе" alt="Typing SVG" />
-</h1>
+## ⚪ Обо мне
+
+⚫ Привет! Я Свят. Занимаюсь фронтенд-разработкой.  
+⚫ Люблю разбираться в сложных задачах, писать чистый код, наводить красоту и постоянно учиться новому.
+⚫ Работаю в компании Code-X wep-development.
+⚫ Учавствую в разработке нескольких проектов.
 
 <!--
 **svyat1234/svyat1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
