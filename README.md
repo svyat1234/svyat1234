@@ -19,24 +19,25 @@
 ⚫ Учавствую в разработке нескольких проектов.
 
 
-## Технологии и инструменты
+### Технологии и инструменты
 
 <p align="center">
   <img src="/assets/icons/Css.svg" width="64" height="64" alt="Css"/>&nbsp;
   <img src="/assets/icons/Cursor.svg" width="64" height="64" alt="Cursor"/>&nbsp;
   <img src="/assets/icons/Figma.svg" width="64" height="64" alt="Figma"/>&nbsp;
-  <img src="/assets/icons/Gsap.svg" width="64" height="64" alt="Gsap"/>&nbsp;
-  <img src="/assets/icons/Html.svg" width="64" height="64" alt="Html"/>&nbsp; <br>
+  <img src="/assets/icons/Gsap.svg" width="64" height="64" alt="Gsap"/>&nbsp;<br>
+  <img src="/assets/icons/Html.svg" width="64" height="64" alt="Html"/>&nbsp; 
   <img src="/assets/icons/Js.svg" width="64" height="64" alt="Js"/>&nbsp;
   <img src="/assets/icons/Node.svg" width="64" height="64" alt="Node"/>&nbsp;
-  <img src="/assets/icons/Npm.svg" width="64" height="64" alt="Npm"/>&nbsp;
-  <img src="/assets/icons/React.svg" width="64" height="64" alt="React"/>&nbsp; <br>
+  <img src="/assets/icons/Npm.svg" width="64" height="64" alt="Npm"/>&nbsp;<br>
+  <img src="/assets/icons/React.svg" width="64" height="64" alt="React"/>&nbsp; 
   <img src="/assets/icons/Sass.svg" width="64" height="64" alt="Sass"/>&nbsp;
   <img src="/assets/icons/Tailwind.svg" width="64" height="64" alt="Tailwind"/>&nbsp;
   <img src="/assets/icons/Ts.svg" width="64" height="64" alt="Ts"/>
 </p>
 
 ## ⚪ Компания, в которой работаю
+***
 
 <p align="center">
   <a href="https://code-x.website" target="_blank">
@@ -48,7 +49,7 @@
   <strong>Code-X wep-development</strong>
 </p>
 
-## 📊 GitHub статистика
+** GitHub статистика **
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=svyat1234&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=9CA3AF" width="48%" alt="GitHub Stats"/>
