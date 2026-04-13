@@ -8,18 +8,22 @@
   <strong>Фронтенд-разработчик</strong>
 </p>
 
-## ⚪ Обо мне
+<p align="left">
+  <img src="/assets/images/obo-mne.svg" height="64" alt="Обо мне"/>&nbsp;
+</p>
 
-⚫ Привет! Я Свят. Занимаюсь фронтенд-разработкой.
+⚪ Привет! Я Свят. Занимаюсь фронтенд-разработкой.
 
-⚫ Люблю разбираться в сложных задачах, писать чистый код, наводить красоту и постоянно учиться новому. 
+⚪ Люблю разбираться в сложных задачах, писать чистый код, наводить красоту и постоянно учиться новому. 
 
-⚫ Работаю в компании Code-X wep-development.
+⚪ Работаю в компании Code-X web-development.
 
-⚫ Учавствую в разработке нескольких проектов.
+⚪ Учавствую в разработке нескольких проектов.
 
 
-### Технологии и инструменты
+<p align="left">
+  <img src="/assets/images/tech.svg" height="64" alt="Технологии и инструменты"/>&nbsp;
+</p>
 
 <p align="center">
   <img src="/assets/icons/Css.svg" width="64" height="64" alt="Css"/>&nbsp;
@@ -36,41 +40,24 @@
   <img src="/assets/icons/Ts.svg" width="64" height="64" alt="Ts"/>
 </p>
 
-## ⚪ Компания, в которой работаю
-***
+<p align="left">
+  <img src="/assets/images/company.svg" height="64" alt="Компания, в которой работаю"/>&nbsp;
+</p>
 
 <p align="center">
   <a href="https://code-x.website" target="_blank">
-    <img src="/assets/images/code-x-logo.svg" width="240" alt="Code-X wep-development">
+    <img src="/assets/images/code-x-logo.svg" width="240" alt="Code-X web-development">
   </a>
 </p>
 
 <p align="center">
-  <strong>Code-X wep-development</strong>
+  <strong>Code-X web-development</strong>
 </p>
 
-**GitHub статистика**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svyat1234&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=9CA3AF" width="48%" alt="GitHub Stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svyat1234&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" width="42%" alt="Top Languages"/>
+<p align="left">
+  <img src="/assets/images/stat.svg" height="64" alt="GitHub статистика/>&nbsp;
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=svyat1234&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Streak"/>
 </p>
-<!--
-**svyat1234/svyat1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
