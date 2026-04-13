@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <img src="/assets/images/obo-mne.svg" height="64" alt="Обо мне"/>&nbsp;
+  <img src="/assets/images/obo-mne.svg" height="24" alt="Обо мне"/>&nbsp;
 </p>
 
 ⚪ Привет! Я Свят. Занимаюсь фронтенд-разработкой.
@@ -22,7 +22,7 @@
 
 
 <p align="left">
-  <img src="/assets/images/tech.svg" height="64" alt="Технологии и инструменты"/>&nbsp;
+  <img src="/assets/images/tech.svg" height="24" alt="Технологии и инструменты"/>&nbsp;
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 </p>
 
 <p align="left">
-  <img src="/assets/images/company.svg" height="64" alt="Компания, в которой работаю"/>&nbsp;
+  <img src="/assets/images/company.svg" height="24" alt="Компания, в которой работаю"/>&nbsp;
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 </p>
 
 <p align="left">
-  <img src="/assets/images/stat.svg" height="64" alt="GitHub статистика/>&nbsp;
+  <img src="/assets/images/stat.svg" height="24" alt="GitHub статистика/>&nbsp;
 </p>
 
 <p align="center">
