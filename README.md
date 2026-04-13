@@ -49,7 +49,7 @@
   <strong>Code-X wep-development</strong>
 </p>
 
-** GitHub статистика **
+**GitHub статистика**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=svyat1234&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=9CA3AF" width="48%" alt="GitHub Stats"/>
