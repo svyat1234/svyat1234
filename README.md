@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/svyat-git-prevv.png" alt="Svyat web-developer" width="100%">
+  <img src="assets/images/svyat-git-prev.png" alt="Svyat web-developer" width="100%">
 </p>
 
 <p align="center">
